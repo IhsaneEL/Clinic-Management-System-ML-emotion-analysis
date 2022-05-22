@@ -1,0 +1,32 @@
+﻿@model GestionClinic.Admin
+
+@{
+    ViewBag.Title = "AdminHome";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin</title>
+    <link href="~/Content/css/StyleA2.css" rel="stylesheet" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<header>
+    <h1><span>Admin</span></h1>
+    <nav>
+        <ul>
+            <li>@Html.ActionLink("View feedbacks ", "Index", "Feedbacks")</li>
+            <li>@Html.ActionLink("Manage doctors ", "Index", "Doctors")</li>
+            <li>@Html.ActionLink(" View patients", "ViewPatients", "Patients")</li>
+            <li>@Html.ActionLink(" View Appointments", "Index", "Appointements")</li>
+            <li>@Html.ActionLink("Logout", "Index", "home1")</li>
+        </ul>
+    </nav>
+
+</header>
+<body>
+    
+</body>
+</html>

@@ -1,0 +1,73 @@
+﻿@model IEnumerable<GestionClinic.Feedback>
+
+@{
+    ViewBag.Title = "Index";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin</title>
+    <link href="~/Content/css/StyleA2.css" rel="stylesheet" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<header>
+    <h1><span>Admin</span></h1>
+    <nav>
+        <ul>
+            <li>@Html.ActionLink("View feedbacks ", "Index", "Feedbacks")</li>
+            <li>@Html.ActionLink("Manage doctors ", "Index", "Doctors")</li>
+            <li>@Html.ActionLink(" View patients", "ViewPatients", "Patients")</li>
+            <li>@Html.ActionLink(" View Appointments", "Index", "Appointements")</li>
+            <li>@Html.ActionLink("Logout", "Index", "home1")</li>
+        </ul>
+    </nav>
+
+</header>
+<body>
+    <br />
+    <p><h4>Feedbacks List:</h4></p><br />
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.patient_ID)
+            </th>
+            <th>
+                Patients: @Html.DisplayNameFor(model => model.Patient.LastName)
+            </th>
+            <th>
+                Patients: @Html.DisplayNameFor(model => model.Patient.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.feedback1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.result)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.patient_ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.feedback1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.result)
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>

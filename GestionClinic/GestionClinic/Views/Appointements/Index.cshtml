@@ -1,0 +1,79 @@
+﻿@model IEnumerable<GestionClinic.Appointement>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin</title>
+    <link href="~/Content/css/StyleA2.css" rel="stylesheet" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<header>
+    <h1><span>Admin</span></h1>
+    <nav>
+        <ul>
+                <li>@Html.ActionLink("View feedbacks ", "Index", "Feedbacks")</li>
+                <li>@Html.ActionLink("Manage doctors ", "Index", "Doctors")</li>
+                <li>@Html.ActionLink(" View patients", "ViewPatients", "Patients")</li>
+                <li>@Html.ActionLink(" View Appointments", "Index", "Appointements")</li>
+                <li>@Html.ActionLink("Logout", "Index", "home1")</li>
+        </ul>
+    </nav>
+
+</header>
+<body>
+
+
+    <br />
+    <h4>Appointements List:</h4>
+    <br />
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Time)
+            </th>
+            <th>
+                Doctors: @Html.DisplayNameFor(model => model.Doctor.FullName)
+            </th>
+            <th>
+                Patients: @Html.DisplayNameFor(model => model.Patient.LastName)
+            </th>
+            <th>
+                Patients: @Html.DisplayNameFor(model => model.Patient.Name)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Time)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Doctor.FullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Patient.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Patient.Name)
+        </td>
+
+    </tr>
+        }
+
+    </table>
+</body>
+</html>

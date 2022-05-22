@@ -1,0 +1,22 @@
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinicML.Model\bin\x86\Release\netstandard2.0\MLModel.zip
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinicML.Model\bin\x86\Release\netstandard2.0\GestionClinicML.Model.deps.json
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinicML.Model\bin\x86\Release\netstandard2.0\GestionClinicML.Model.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinicML.Model\bin\x86\Release\netstandard2.0\GestionClinicML.Model.pdb
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.csproj.AssemblyReference.cache
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.AssemblyInfoInputs.cache
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.AssemblyInfo.cs
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.csproj.CoreCompileInputs.cache
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.pdb
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinicML.Model\bin\x86\Release\netstandard2.0\MLModel.zip
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinicML.Model\bin\x86\Release\netstandard2.0\GestionClinicML.Model.deps.json
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinicML.Model\bin\x86\Release\netstandard2.0\GestionClinicML.Model.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinicML.Model\bin\x86\Release\netstandard2.0\GestionClinicML.Model.pdb
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.csproj.AssemblyReference.cache
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.AssemblyInfoInputs.cache
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.AssemblyInfo.cs
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.csproj.CoreCompileInputs.cache
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinicML.Model\obj\x86\Release\netstandard2.0\GestionClinicML.Model.pdb

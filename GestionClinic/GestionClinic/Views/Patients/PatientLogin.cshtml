@@ -1,0 +1,43 @@
+﻿@model GestionClinic.Patient
+@{
+    ViewBag.Title = "PatientLogin";
+}
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Patient</title>
+    <link href="~/Content/css/StyleP1.css" rel="stylesheet" />
+</head>
+<body class="Abody">
+    <div class="header">
+        <h2>Patient Login</h2>
+    </div>
+
+    @using (Html.BeginForm("PatientLogVerif", "Patients", FormMethod.Post, new { @class = "form" }))
+    {
+        <div class="input-group">
+            @Html.LabelFor(model => model.UserName, new { @class = "input-group-label" })
+            @Html.TextBoxFor(model => model.UserName, new { @class = "input-group-input", placeholder = "user name" })
+
+        </div>
+
+        <div class="input-group">
+            @Html.LabelFor(model => model.Password, new { @class = "input-group-label" })
+            @Html.TextBoxFor(model => model.Password, new { type = "password", @class = "input-group-input", placeholder = "password" })
+
+            <div class="text-danger">@ViewBag.Message</div>
+            <div class="input-group">
+                <button type="submit" class="btn"> Login</button>
+            </div>
+        </div>
+        <p>
+            Not a member? @Html.ActionLink("Sign Up ", "PatientReg") 
+        </p>
+    }
+
+</body>
+</html>
+

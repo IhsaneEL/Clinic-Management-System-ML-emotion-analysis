@@ -1,0 +1,89 @@
+﻿@model GestionClinic.Patient
+
+@{
+    ViewBag.Title = "PatientHome";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Patient</title>
+    <link rel="stylesheet" href="~/Content/css/StyleP3.css">
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+</head>
+<header>
+    <h1><span>Patient</span></h1>
+    <nav>
+        <ul>
+            <li>@Html.ActionLink(" MyInfo", "PatientHome", "Patients", new { id = Session["userId"] }, null)</li>
+            <li>@Html.ActionLink("Book Appointment ", "CreateAppointment", "Appointements", new { id = Session["userId"] }, null)</li>
+            <li>@Html.ActionLink(" View Appointment", "ViewAppointment", "Appointements", new { id = Session["userId"] }, null)</li>
+            <li>@Html.ActionLink("Logout", "Index", "home1")</li>
+
+        </ul>
+    </nav>
+
+</header>
+<body>
+    <br />
+    <p><h4>Patient Informations:</h4></p><br />
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContactNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th></th>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(model => model.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.ContactNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Password)
+            </td>
+
+        </tr>
+    </table>
+    <br />
+    <h4>Write your feedback:</h4>
+    @using (Html.BeginForm("SendFeedback", "Patients", FormMethod.Post, new { @class = "form-feed" }))
+    {
+       
+        <textarea name="feedback" id="feedback"></textarea>
+        <input type="submit" value="send" class="btn" />
+    }
+</body>
+</html>

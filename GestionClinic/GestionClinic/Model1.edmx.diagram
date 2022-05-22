@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="04c0ec3febc742d0b2af3157ba0ef3d2" Name="Diagram1" ZoomLevel="98">
+        <EntityTypeShape EntityType="BD_GCModel.Admin" Width="1.5" PointX="5.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_GCModel.Appointement" Width="1.5" PointX="2.875" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_GCModel.Doctor" Width="1.5" PointX="5.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_GCModel.Feedback" Width="1.5" PointX="3.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_GCModel.Patient" Width="1.5" PointX="0.5" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="BD_GCModel.fk_d_app" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_GCModel.fk_p_app" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_GCModel.fk_p_feed" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

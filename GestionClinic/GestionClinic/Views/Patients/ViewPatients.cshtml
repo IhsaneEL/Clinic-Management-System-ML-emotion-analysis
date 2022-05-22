@@ -1,0 +1,87 @@
+﻿@model IEnumerable<GestionClinic.Patient>
+
+@{
+    ViewBag.Title = "ViewPatients";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin</title>
+    <link href="~/Content/css/StyleA2.css" rel="stylesheet" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<header>
+    <h1><span>Admin</span></h1>
+    <nav>
+        <ul>
+            <li>@Html.ActionLink("View feedbacks ", "Index", "Feedbacks")</li>
+            <li>@Html.ActionLink("Manage doctors ", "Index", "Doctors")</li>
+            <li>@Html.ActionLink(" View patients", "ViewPatients", "Patients")</li>
+            <li>@Html.ActionLink(" View Appointments", "Index", "Appointements")</li>
+            <li>@Html.ActionLink("Logout", "Index", "home1")</li>
+        </ul>
+    </nav>
+
+</header>
+<body>
+    <p><h4>Patients List:</h4></p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContactNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ContactNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Password)
+                </td>
+                
+            </tr>
+        }
+
+    </table>
+    </body>
+</html>

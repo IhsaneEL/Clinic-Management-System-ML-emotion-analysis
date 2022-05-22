@@ -1,0 +1,13 @@
+﻿@model GestionClinicML.Model.ModelInput
+
+@{
+    ViewBag.Title = "Feedback";
+}
+
+@using (Html.BeginForm("SendFeedback", "Patients", FormMethod.Post, new { @class = "form-feed" }))
+{
+
+    <textarea name="col0"></textarea>
+    <input type="submit" value="send" class="btn" />
+}
+

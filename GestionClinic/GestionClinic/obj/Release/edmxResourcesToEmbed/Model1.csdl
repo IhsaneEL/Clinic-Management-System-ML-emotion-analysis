@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BD_GCModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="String" MaxLength="11" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Appointement">
+    <Key>
+      <PropertyRef Name="Ap_ID" />
+    </Key>
+    <Property Name="Ap_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="patient_ID" Type="Int32" Nullable="false" />
+    <Property Name="doctor_ID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Doctor" Relationship="Self.fk_d_app" FromRole="Appointement" ToRole="Doctor" />
+    <NavigationProperty Name="Patient" Relationship="Self.fk_p_app" FromRole="Appointement" ToRole="Patient" />
+    <Property Name="Time" Type="Time" Nullable="false" Precision="7" />
+  </EntityType>
+  <EntityType Name="Doctor">
+    <Key>
+      <PropertyRef Name="D_ID" />
+    </Key>
+    <Property Name="D_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ContactNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Specialty" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Appointement" Relationship="Self.fk_d_app" FromRole="Doctor" ToRole="Appointement" />
+  </EntityType>
+  <EntityType Name="Feedback">
+    <Key>
+      <PropertyRef Name="feedback1" />
+    </Key>
+    <Property Name="patient_ID" Type="Int32" Nullable="false" />
+    <Property Name="feedback1" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Patient" Relationship="Self.fk_p_feed" FromRole="Feedback" ToRole="Patient" />
+    <Property Name="result" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Patient">
+    <Key>
+      <PropertyRef Name="P_ID" />
+    </Key>
+    <Property Name="P_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ContactNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Appointement" Relationship="Self.fk_p_app" FromRole="Patient" ToRole="Appointement" />
+    <NavigationProperty Name="Feedback" Relationship="Self.fk_p_feed" FromRole="Patient" ToRole="Feedback" />
+  </EntityType>
+  <Association Name="fk_d_app">
+    <End Role="Doctor" Type="Self.Doctor" Multiplicity="1" />
+    <End Role="Appointement" Type="Self.Appointement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Doctor">
+        <PropertyRef Name="D_ID" />
+      </Principal>
+      <Dependent Role="Appointement">
+        <PropertyRef Name="doctor_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_p_app">
+    <End Role="Patient" Type="Self.Patient" Multiplicity="1" />
+    <End Role="Appointement" Type="Self.Appointement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Patient">
+        <PropertyRef Name="P_ID" />
+      </Principal>
+      <Dependent Role="Appointement">
+        <PropertyRef Name="patient_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_p_feed">
+    <End Role="Patient" Type="Self.Patient" Multiplicity="1" />
+    <End Role="Feedback" Type="Self.Feedback" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Patient">
+        <PropertyRef Name="P_ID" />
+      </Principal>
+      <Dependent Role="Feedback">
+        <PropertyRef Name="patient_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BD_GCEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Admin" EntityType="Self.Admin" />
+    <EntitySet Name="Appointement" EntityType="Self.Appointement" />
+    <EntitySet Name="Doctor" EntityType="Self.Doctor" />
+    <EntitySet Name="Feedback" EntityType="Self.Feedback" />
+    <EntitySet Name="Patient" EntityType="Self.Patient" />
+    <AssociationSet Name="fk_d_app" Association="Self.fk_d_app">
+      <End Role="Doctor" EntitySet="Doctor" />
+      <End Role="Appointement" EntitySet="Appointement" />
+    </AssociationSet>
+    <AssociationSet Name="fk_p_app" Association="Self.fk_p_app">
+      <End Role="Patient" EntitySet="Patient" />
+      <End Role="Appointement" EntitySet="Appointement" />
+    </AssociationSet>
+    <AssociationSet Name="fk_p_feed" Association="Self.fk_p_feed">
+      <End Role="Patient" EntitySet="Patient" />
+      <End Role="Feedback" EntitySet="Feedback" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

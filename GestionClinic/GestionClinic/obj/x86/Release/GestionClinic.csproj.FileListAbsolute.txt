@@ -1,0 +1,273 @@
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\MLModel.zip
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\FastTreeNative.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\LdaNative.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\CpuMathNative.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\GestionClinic.dll.config
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\GestionClinic.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\GestionClinic.pdb
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\csc.exe
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\csc.exe.config
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\csc.rsp
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\csi.exe
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\csi.exe.config
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\csi.rsp
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.AppContext.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Console.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.IO.Compression.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Net.Http.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.ValueTuple.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\vbc.exe
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\vbc.exe.config
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\vbc.rsp
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\VBCSCompiler.exe
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Antlr3.Runtime.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\EntityFramework.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\EntityFramework.SqlServer.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\GestionClinicML.Model.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.Core.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.CpuMath.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.Data.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.DataView.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.FastTree.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.KMeansClustering.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.PCA.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.StandardTrainers.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.Transforms.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Newtonsoft.Json.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Buffers.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.CodeDom.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Collections.Immutable.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Memory.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Numerics.Vectors.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Threading.Channels.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.Helpers.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.Mvc.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.Optimization.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.Razor.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.WebPages.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.WebPages.Razor.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\WebGrease.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\GestionClinicML.Model.pdb
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\EntityFramework.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\EntityFramework.SqlServer.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.Core.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.CpuMath.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.Data.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.DataView.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.FastTree.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.KMeansClustering.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.PCA.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.StandardTrainers.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.ML.Transforms.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Newtonsoft.Json.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Buffers.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Collections.Immutable.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Memory.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Numerics.Vectors.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Threading.Channels.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.Helpers.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.Mvc.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.Optimization.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.Razor.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.WebPages.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\System.Web.WebPages.Razor.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Antlr3.Runtime.pdb
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\fr\EntityFramework.resources.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\fr\System.Web.Razor.resources.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\obj\x86\Release\GestionClinic.csproj.AssemblyReference.cache
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\obj\x86\Release\GestionClinic.csproj.CoreCompileInputs.cache
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\obj\x86\Release\GestionClinic.dll
+C:\Users\IHSANE\Desktop\4IIR4 S1\dot net\GestionClinic\GestionClinic\obj\x86\Release\GestionClinic.pdb
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\MLModel.zip
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\FastTreeNative.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\LdaNative.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\CpuMathNative.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\GestionClinic.dll.config
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\GestionClinic.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\GestionClinic.pdb
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\csc.exe
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\csc.exe.config
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\csc.rsp
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\csi.exe
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\csi.exe.config
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\csi.rsp
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.AppContext.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Console.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.IO.Compression.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Net.Http.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.ValueTuple.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\vbc.exe
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\vbc.exe.config
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\vbc.rsp
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\VBCSCompiler.exe
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Antlr3.Runtime.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\EntityFramework.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\EntityFramework.SqlServer.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\GestionClinicML.Model.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.Core.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.CpuMath.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.Data.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.DataView.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.FastTree.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.KMeansClustering.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.PCA.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.StandardTrainers.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.Transforms.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Newtonsoft.Json.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Buffers.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.CodeDom.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Collections.Immutable.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Memory.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Numerics.Vectors.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Threading.Channels.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.Helpers.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.Mvc.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.Optimization.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.Razor.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.WebPages.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.WebPages.Razor.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\WebGrease.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\GestionClinicML.Model.pdb
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\EntityFramework.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\EntityFramework.SqlServer.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.Core.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.CpuMath.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.Data.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.DataView.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.FastTree.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.KMeansClustering.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.PCA.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.StandardTrainers.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.ML.Transforms.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Newtonsoft.Json.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Buffers.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Collections.Immutable.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Memory.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Numerics.Vectors.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Threading.Channels.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.Helpers.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.Mvc.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.Optimization.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.Razor.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.WebPages.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\System.Web.WebPages.Razor.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Antlr3.Runtime.pdb
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\fr\EntityFramework.resources.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\fr\System.Web.Razor.resources.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\obj\x86\Release\GestionClinic.csproj.AssemblyReference.cache
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\obj\x86\Release\GestionClinic.csproj.CoreCompileInputs.cache
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\obj\x86\Release\GestionClinic.csproj.CopyComplete
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\obj\x86\Release\GestionClinic.dll
+C:\Users\IHSANE\Desktop\GestionClinic\GestionClinic\obj\x86\Release\GestionClinic.pdb

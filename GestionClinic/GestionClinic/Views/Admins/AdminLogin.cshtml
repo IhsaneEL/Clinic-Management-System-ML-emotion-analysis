@@ -1,0 +1,40 @@
+﻿@model GestionClinic.Admin
+@{
+    ViewBag.Title = "AdminLogin";
+}
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin</title>
+    <link href="~/Content/css/StyleA1.css" rel="stylesheet" />
+</head>
+<body class="Abody">
+    <div class="Aheader">
+        <h2>Admin Login</h2>
+    </div>
+
+    @using (Html.BeginForm("AdminLogVerif", "Admins",FormMethod.Post, new { @class = "Aform" }))
+    {
+        <div class="input-groupA">
+            @Html.LabelFor(model=>model.username,new {@class= "input-groupA-label" })
+            @Html.TextBoxFor(model=>model.username,new { @class = "input-groupA-input", placeholder = "user name" })
+
+        </div>
+
+        <div class="input-groupA">
+            @Html.LabelFor(model => model.password, new{ @class = "input-groupA-label" })
+            @Html.TextBoxFor(model => model.password, new { type = "password" , @class = "input-groupA-input", placeholder = "password" })
+
+            <div class="text-danger">@ViewBag.Message</div>
+            <div class="input-groupA">
+                <button type="submit" class="btnA"> Login</button>
+            </div>
+        </div>
+    }
+
+</body>
+</html>
+

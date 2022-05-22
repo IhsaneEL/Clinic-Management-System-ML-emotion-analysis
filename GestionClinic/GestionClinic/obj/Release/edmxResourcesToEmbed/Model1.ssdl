@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BD_GCModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Appointement">
+    <Key>
+      <PropertyRef Name="Ap_ID" />
+    </Key>
+    <Property Name="Ap_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Date" Type="date" Nullable="false" />
+    <Property Name="Time" Type="time" Precision="7" Nullable="false" />
+    <Property Name="patient_ID" Type="int" Nullable="false" />
+    <Property Name="doctor_ID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Doctor">
+    <Key>
+      <PropertyRef Name="D_ID" />
+    </Key>
+    <Property Name="D_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FullName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ContactNumber" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Specialty" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Feedback">
+    <Key>
+      <PropertyRef Name="feedback" />
+    </Key>
+    <Property Name="patient_ID" Type="int" Nullable="false" />
+    <Property Name="feedback" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="result" Type="nchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Patient">
+    <Key>
+      <PropertyRef Name="P_ID" />
+    </Key>
+    <Property Name="P_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ContactNumber" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="fk_d_app">
+    <End Role="Doctor" Type="Self.Doctor" Multiplicity="1" />
+    <End Role="Appointement" Type="Self.Appointement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Doctor">
+        <PropertyRef Name="D_ID" />
+      </Principal>
+      <Dependent Role="Appointement">
+        <PropertyRef Name="doctor_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_p_app">
+    <End Role="Patient" Type="Self.Patient" Multiplicity="1" />
+    <End Role="Appointement" Type="Self.Appointement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Patient">
+        <PropertyRef Name="P_ID" />
+      </Principal>
+      <Dependent Role="Appointement">
+        <PropertyRef Name="patient_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_p_feed">
+    <End Role="Patient" Type="Self.Patient" Multiplicity="1" />
+    <End Role="Feedback" Type="Self.Feedback" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Patient">
+        <PropertyRef Name="P_ID" />
+      </Principal>
+      <Dependent Role="Feedback">
+        <PropertyRef Name="patient_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BD_GCModelStoreContainer">
+    <EntitySet Name="Admin" EntityType="Self.Admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Appointement" EntityType="Self.Appointement" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Doctor" EntityType="Self.Doctor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Feedback" EntityType="Self.Feedback" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Patient" EntityType="Self.Patient" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk_d_app" Association="Self.fk_d_app">
+      <End Role="Doctor" EntitySet="Doctor" />
+      <End Role="Appointement" EntitySet="Appointement" />
+    </AssociationSet>
+    <AssociationSet Name="fk_p_app" Association="Self.fk_p_app">
+      <End Role="Patient" EntitySet="Patient" />
+      <End Role="Appointement" EntitySet="Appointement" />
+    </AssociationSet>
+    <AssociationSet Name="fk_p_feed" Association="Self.fk_p_feed">
+      <End Role="Patient" EntitySet="Patient" />
+      <End Role="Feedback" EntitySet="Feedback" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
